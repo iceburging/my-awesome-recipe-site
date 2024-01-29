@@ -1,4 +1,9 @@
-= Test Recipe
+= Onions!
+
+:showtitle:
+:page-navtitle: Onions
+:page-excerpt: Excerpt goes here.
+:page-root: ../../../
 
 [%horizontal]
 Serves:: 4
