@@ -14,7 +14,7 @@ Delicious onion two ways recipe.
 
 == Ingredients
 
-[cols="1,1"
+[cols="1,1"]
 |===
 | Item   | Quantity
 | Onion  | 2
