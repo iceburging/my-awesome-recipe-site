@@ -1,0 +1,34 @@
+= Test Recipe
+
+[%horizontal]
+Serves:: 4
+Prep:: 5 min
+Cook:: 10 min
+
+Delicious onion two ways recipe.
+
+== Ingredients
+
+[cols="1,1"
+|===
+| Item   | Quantity
+| Onion  | 2
+|===
+
+== Method
+
+1. Chop one of the onions and saute
++
+====
+1x Onion Chopped
+====
+
+2. Finely fry the other onion
++
+====
+1x Onion Sliced
+====
+
+3. Plate up and serve
+
+TIP: Best eaten warm!
