@@ -1,5 +1,4 @@
 = Onions!
-
 :showtitle:
 :page-navtitle: Onions
 :page-excerpt: Excerpt goes here.
